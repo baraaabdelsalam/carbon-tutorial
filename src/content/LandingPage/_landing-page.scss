@@ -1,5 +1,5 @@
 @import './mixins.scss';
-@import './overrides.scss';
+@import './_overrides.scss';
 
 .landing-page__illo {
   max-width: 100%;
@@ -38,7 +38,6 @@
     max-width: 75%;
   }
 }
-
 .landing-page__r3 {
   padding-top: $spacing-09;
   padding-bottom: $spacing-09;
